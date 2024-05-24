@@ -1,19 +1,19 @@
 <h1 align="center">Hey 👋, there Swapnanil this side:)</h1>
-<h3 align="center">I'm a MERN stack Web-Developer with a deep inclination toward ML. I, 'm from INDIA, studying at the National Institute Of Technology Durgapur.</h3>
+<h3 align="center">I'm a MERN stack Web-Developer having a deep inclination toward ML. I,m from INDIA, studying in National Institute Of Technology Durgapur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnanilmanna1701&label=Profile%20views&color=0e75b6&style=flat" alt="swapnanilmanna1701" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnanilmanna1701" alt="swapnanilmanna1701" /></a> </p>
 
-- 🔭 I’m currently working on [full-stack project based on javascript, typescript, and frameworks following React.js, Next.js](https://github.com/Swapnanilmanna1701)
+- 🔭 I’m currently working on [full-stack project based on javascript, typescript and frameworks following React.js , Next.js](https://github.com/Swapnanilmanna1701)
 
-- 🌱 I’m currently learning **full-stack development more deeply using React.js, Next.js, Javascript, typescript and Machine Learning using python with the help of "Computer Vision" library OpenCV and little bit of DSA using C++**
+- 🌱 I’m currently learning **fullstack development more deeply using React.js, Next.js, Javascript, typescript and Machine Learning using python with the help of "Computer Vision" library OpenCV and little bit of DSA using C++**
 
 - 👯 I’m looking to collaborate on **any full-stack open source project.**
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/Swapnanilmanna1701](https://github.com/Swapnanilmanna1701)
 
-- 📝 I often write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
+- 📝 I oftenly write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
 
 - 💬 Ask me about **full-stack web-Development and Machine Learning**
 
@@ -21,12 +21,12 @@
 
 - 📄 Know about my experiences [https://online.publuu.com/518546/1162225](https://online.publuu.com/518546/1162225)
 
-- ⚡ Extracurricular activities **I play Chess, Football, and cricket and love to listen  audio stories:)**
+- ⚡ Extracurricular activities **I play Chess, Football, cricket and love to listen audio stories:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna-042176204/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnanil-manna/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23626721/swapnanil-manna-neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23626721/swapnanil-manna-neel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnanil (neel) manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnanil (neel) manna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/swapnanil manna neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swapnanil manna neel" height="30" width="40" /></a>
 <a href="https://instagram.com/_swapna_neel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swapna_neel_" height="30" width="40" /></a>
 </p>
 
