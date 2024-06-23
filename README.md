@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sm.22u10337@btech.nitdgp.ac.in or swapnanilmanna06694@gmail.com**
 
-- 📄 Know about my experiences [https://online.publuu.com/518546/1162225](https://online.publuu.com/518546/1162225)
+- 📄 Know about my experiences [https://online.publuu.com/518546/1162225](https://drive.google.com/file/d/1MO4gSsArnGp0a2FY5uk_Ese1I4I1LkIz/view)
 
 - ⚡ Extracurricular activities **I play Chess, Football, cricket and love to listen audio stories:)**
 
