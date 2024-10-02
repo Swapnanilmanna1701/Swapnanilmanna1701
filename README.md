@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [full-stack project based on javascript, typescript and frameworks following React.js , Next.js](https://github.com/Swapnanilmanna1701)
 
-- 🌱 I’m currently learning **fullstack development more deeply using React.js, Next.js, Javascript, typescript and Machine Learning using python with the help of "Computer Vision" library OpenCV and little bit of DSA using C++**
+- 🌱 I’m currently learning **Native Mobile App Development, DSA, AI Intigration with maximum optimization.**
 
 - 👯 I’m looking to collaborate on **any full-stack open source project.**
 
-- 🤝 I’m looking for help with **any full-stack open source project and any Computer Vision project.**
+- 🤝 I’m looking for help with **any Full-Stack Open Source project on Next.JS, React.JS.**
 
-- 👨‍💻 All of my projects are available at Github [https://github.com/Swapnanilmanna1701](https://github.com/Swapnanilmanna1701)
+- 👨‍💻 All of my projects are available at Github (https://github.com/Swapnanilmanna1701) and (https://vercel.com/swapnanil-mannas-projects)
 
 - 📝 I oftenly write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
 
