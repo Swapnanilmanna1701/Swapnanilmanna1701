@@ -17,11 +17,11 @@
 
 - 📝 I oftenly write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
 
-- 💬 Ask me about **Full-Stack Web Development AI Integration in Website Machine Learning in Computer Vision.**
+- 💬 Ask me about **Full-Stack Web Development, AI Integration in Website, Open Source Contribution, Native Mobile App Development and Machine Learning in Computer Vision.**
 
 - 📫 How to reach me **sm.22u10337@btech.nitdgp.ac.in or swapnanilmanna06694@gmail.com**
 
-- 📄 Know about my experiences [https://online.publuu.com/518546/1162225](https://drive.google.com/file/d/1MO4gSsArnGp0a2FY5uk_Ese1I4I1LkIz/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1VdmxK8BejVeNw4V8ox85SePDF7Ja2_8o/view?usp=sharing)
 
 - ⚡ Extracurricular activities **I play Chess, Football, cricket and love to listen audio stories:)**
 
