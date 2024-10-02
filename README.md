@@ -17,7 +17,7 @@
 
 - 📝 I oftenly write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
 
-- 💬 Ask me about **full-stack web-Development and Machine Learning in Computer Vision.**
+- 💬 Ask me about **Full-Stack Web Development AI Integration in Website Machine Learning in Computer Vision.**
 
 - 📫 How to reach me **sm.22u10337@btech.nitdgp.ac.in or swapnanilmanna06694@gmail.com**
 
