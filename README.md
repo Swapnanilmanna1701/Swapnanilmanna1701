@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, there Swapnanil this side:)</h1>
-<h3 align="center">A A Typescript Developer, proficient in MERN Stack also. Learning Native Mobile App Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
+<h3 align="center">A Typescript Developer, proficient in MERN Stack also. Learning Native Mobile App Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnanilmanna1701&label=Profile%20views&color=0e75b6&style=flat" alt="swapnanilmanna1701" /> </p>
 
