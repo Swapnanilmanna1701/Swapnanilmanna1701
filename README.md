@@ -27,7 +27,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-manna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/swapnaneel1701)
+[![Instagram](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](swapnanilmanna06694@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-manna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/swapnaneel1701)
 
 
 # 💻 Tech Stack:
@@ -49,9 +49,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
+  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=peisma&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/DrizzleORM-000000?logo=deno&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
+  <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4FC08D?logo=postgresql&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="12" />
