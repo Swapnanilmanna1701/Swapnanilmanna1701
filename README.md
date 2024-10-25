@@ -47,17 +47,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="30" alt="appwrite logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
+  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
+  <img src="https://img.shields.io/badge/DrizzleORM-000000?logo=deno&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
@@ -68,8 +66,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="12" />
@@ -101,7 +97,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
+  <img src="https://img.shields.io/badge/Pycharm-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
