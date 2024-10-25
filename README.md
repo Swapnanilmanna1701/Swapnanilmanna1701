@@ -25,13 +25,9 @@
 
 - ⚡ Extracurricular activities **I play Chess, Football, cricket and love to listen audio stories:)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swapnaneel1701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapnaneel1701" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapnanil-manna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnanil-manna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swapnanil manna neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swapnanil manna neel" height="30" width="40" /></a>
-<a href="https://instagram.com/_swapna_neel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swapna_neel_" height="30" width="40" /></a>
-</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-manna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/swapnaneel1701)
 
 
 # 💻 Tech Stack:
