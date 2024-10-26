@@ -49,11 +49,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=peisma&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
+  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Shadcn-092E20?logo=shadcn&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img src="https://img.shields.io/badge/Postman-092E20?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
   <img width="12" />
