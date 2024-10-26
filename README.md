@@ -95,7 +95,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Pycharm-E95420?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=vscode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Stream-2C8EBB?logo=stream&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
 </div>
