@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-092E20?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img src="https://img.shields.io/badge/Postman-E95420?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
   <img width="12" />
