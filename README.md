@@ -76,7 +76,7 @@
   
   <img src="https://img.shields.io/badge/Ansys-0A66C2?logo=ansys&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Catia-FCC624?logo=catia&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/Catia-FCC624?logo=catiav5&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="12" />
