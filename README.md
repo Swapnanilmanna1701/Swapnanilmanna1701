@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img src="https://img.shields.io/badge/Shadcn-092E20?logo=shadcn&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
   <img width="12" />
@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4FC08D?logo=postgresql&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Matlab-000000?logo=matlab&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
@@ -93,7 +93,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Pycharm-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
+  <img src="https://img.shields.io/badge/Pycharm-E95420?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
