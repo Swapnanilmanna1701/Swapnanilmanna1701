@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, there Swapnanil this side:)</h1>
-<h3 align="center">A Typescript Developer, proficient in MERN Stack also. Learning Native Mobile App Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
+<h3 align="center">A Typescript Developer, proficient in MERN Stack also and AI integration to Website. Learning Native Mobile App Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnanilmanna1701&label=Profile%20views&color=0e75b6&style=flat" alt="swapnanilmanna1701" /> </p>
 
@@ -17,11 +17,11 @@
 
 - 📝 I oftenly write articles on Linkedin [https://www.linkedin.com/in/swapnanil-manna/](https://www.linkedin.com/in/swapnanil-manna/)
 
-- 💬 Ask me about **Full-Stack Web Development, AI Integration in Website, Open Source Contribution, Native Mobile App Development and Machine Learning in Computer Vision.**
+- 💬 Ask me about **Full-Stack Web Development, AI Integration in Website, Open Source Contribution, Native Mobile App Development.**
 
 - 📫 How to reach me **sm.22u10337@btech.nitdgp.ac.in or swapnanilmanna06694@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1VdmxK8BejVeNw4V8ox85SePDF7Ja2_8o/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1oZsCQec8GVk-KPpeO0znHisGMnEQwq9_/view?usp=drive_link)
 
 - ⚡ Extracurricular activities **I play Chess, Football, cricket and love to listen audio stories:)**
 
