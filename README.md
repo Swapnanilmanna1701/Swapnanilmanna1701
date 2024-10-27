@@ -89,7 +89,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
+  <img src="https://img.shields.io/badge/Framer Motion-000000?logo=framermotion&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Pycharm-E95420?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
