@@ -27,7 +27,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](swapnanilmanna06694@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-manna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/swapnaneel1701)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](swapnanilmanna06694@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-manna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/swapnaneel1701)
 
 
 # 💻 Tech Stack:
