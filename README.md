@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, there Swapnanil this side:)</h1>
 <h3 align="center">A Typescript Developer, proficient in MERN Stack also and AI integration to Website. Learning Native Mobile App Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Typescript+Developer,+proficient+in+MERN+Stack+also+and+AI+integration+to+Website.+Learning+Native+Mobile+App+Development+and+ML+with+OpenCV-Python.+Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=A+Typescript+Developer,+proficient+in+MERN+Stack+also+and+AI+integration+to+Website.+Learning+Native+Mobile+App+Development+and+ML+with+OpenCV-Python.+Open+Source+Enthusiast"/>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnanilmanna1701&label=Profile%20views&color=0e75b6&style=flat" alt="swapnanilmanna1701" /> </p>
