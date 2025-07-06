@@ -36,72 +36,16 @@
 # 💻 Tech Stack:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Prisma-A81D33?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=white&style=for-the-badge" height="30" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-E95420?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4FC08D?logo=postgresql&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Matlab-000000?logo=matlab&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ansys-0A66C2?logo=ansys&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Catia-FCC624?logo=catiav5&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Clerk-00DC82?logo=clerk&logoColor=black&style=for-the-badge" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Framer Motion-000000?logo=framermotion&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Pycharm-E95420?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=vscode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Stream-2C8EBB?logo=stream&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Framer-2C8EBB?logo=stream&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="Nextjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="30" width="42" alt="CSS logo"  />
 </div>
 
 
