@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, there <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Utkarsh-123github/Swapnanilmanna1701/name.svg" alt="Swapnanil" />
+  <img src="https://raw.githubusercontent.com/Swapnanilmanna1701/Swapnanilmanna1701/name.svg" alt="Swapnanil" />
 </h1> this side:)</h1>
 <h3 align="center">A Typescript Developer, proficient in MERN Stack also and AI integration to Website. Learning Web3 And Blockchain Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
 <h1 align="center">
