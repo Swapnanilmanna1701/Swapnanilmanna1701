@@ -46,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="Nextjs logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="30" width="42" alt="CSS logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="30" width="42" alt="CSS logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgredql/postgresql-plain.svg" height="30" width="42" alt="typescript logo"  />
+
 </div>
 
 
