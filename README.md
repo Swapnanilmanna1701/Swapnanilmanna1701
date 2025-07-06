@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, there Swapnanil this side:)</h1>
+<h1 align="center">Hey 👋, there <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Utkarsh-123github/Utkarsh-123github/master/name.svg" alt="Utkarsh Tiwari" />
+</h1> this side:)</h1>
 <h3 align="center">A Typescript Developer, proficient in MERN Stack also and AI integration to Website. Learning Web3 And Blockchain Development and ML with OpenCV-Python. Open Source Enthusiast.</h3>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Developer,+Typescript,+MERN,+NextJS,+PostgreSQL,+OpenSource,+Native+App+Dev."/>
