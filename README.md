@@ -100,6 +100,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Stream-2C8EBB?logo=stream&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Framer-2C8EBB?logo=stream&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
+  <img width="12" />
 </div>
 
 
